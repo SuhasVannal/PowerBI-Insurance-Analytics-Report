@@ -143,4 +143,5 @@ Reduced reporting time and enabled faster strategic decisions.
 **Suhas Vannal**
 | Power BI Developer
 
-https://github.com/SuhasVannal/PowerBI-Insurance-Analytics-Report/blob/main/Insurance%20Analytics%20Report.png
+![Summary Dashboard](https://github.com/SuhasVannal/PowerBI-Insurance-Analytics-Report/blob/main/Insurance%20Analytics%20Report.png)
+
